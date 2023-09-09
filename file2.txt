@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 welcome
+=======
+welcome All
+>>>>>>> fc9c7a75b35afe368bb2854554f92ca2600037db
